@@ -1,0 +1,24 @@
+# Web Framework & Dashboard
+streamlit
+
+# Data Manipulation & ETL
+pandas
+numpy
+
+# Database Support
+# (sqlite3 adalah library bawaan Python, tidak perlu ditulis di sini)
+sqlalchemy
+
+# YouTube API Client
+google-api-python-client
+
+# Natural Language Processing (NLP)
+vaderSentiment
+langdetect
+Sastrawi
+textblob
+
+# Visualization
+plotly
+wordcloud
+matplotlib
